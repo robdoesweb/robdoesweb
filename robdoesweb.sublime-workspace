@@ -1,0 +1,266 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"header",
+				"header-group"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/sfml-build.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rob/Documents/web/robdoesweb/version2july14/app.js",
+		"/C/Users/Rob/Documents/web/robdoesweb/version2july14/style.css",
+		"/C/Users/Rob/Documents/web/robdoesweb/version2july14/resume.html",
+		"/C/Users/Rob/Documents/web/robdoesweb/version2july14/index.html",
+		"/C/Users/Rob/Documents/web/js experiments/sinwaves/index.html",
+		"/C/Users/Rob/Documents/web/municoin/datascraper/README.txt",
+		"/G/ProgrammingI/assignments/practice6.cpp",
+		"/C/Users/Rob/Documents/web/js experiments/sinwaves/app.js",
+		"/C/Users/Rob/Documents/school/ProgrammingII/Employee.java",
+		"/C/Users/Rob/Documents/school/ProgrammingII/EmployeeClient.java",
+		"/C/Users/Rob/Documents/web/robdoesweb/portfolio.html",
+		"/C/Users/Rob/Documents/web/robdoesweb/preload_styles.css",
+		"/C/Users/Rob/Documents/web/robdoesweb/loadthis.html",
+		"/C/Users/Rob/Documents/web/robdoesweb/preload.html",
+		"/C/Users/Rob/Documents/blah.java",
+		"/C/Windows/System32/catroot2/edbres00002.jrs",
+		"/C/tmp/Addition.java",
+		"/C/tmp/Welcome1.java",
+		"/C/Users/Rob/Documents/web/municoin/js/jquery.scrollsnap.js",
+		"/C/Users/Rob/Documents/web/municoin/js/jquery.scrollstop.js",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Rob/Documents/web/municoin/css/style.css",
+		"/C/Users/Rob/Documents/web/municoin/js/_main.js",
+		"/C/Users/Rob/Documents/web/municoin/index.html",
+		"/C/Users/Rob/Desktop/Goals.txt",
+		"/C/Users/Rob/Documents/web/municoin/css/normalize.css",
+		"/C/Users/Rob/Documents/web/todolist",
+		"/C/Users/Rob/Documents/web/portfolio sites/motorcycles/js/main.js",
+		"/C/Users/Rob/Documents/web/portfolio sites/motorcycles/css/style.css",
+		"/C/Users/Rob/Documents/web/portfolio sites/motorcycles/index.html",
+		"/C/Users/Rob/Documents/web/UltralightAviation.net/index.html",
+		"/C/Users/Rob/Documents/web/UltralightAviation.net/css/style.css",
+		"/E/ProgrammingI/Final Project/main.cpp",
+		"/C/Users/Rob/Documents/web/portfolio sites/restaurant/js/main.js",
+		"/C/Users/Rob/Documents/web/portfolio sites/restaurant/css/style.css",
+		"/C/Users/Rob/Documents/web/portfolio sites/restaurant/index.html",
+		"/C/Users/Rob/Documents/web/DaFucks/ideas.txt",
+		"/C/Users/Rob/Documents/web design/ultralightaviation/style.css",
+		"/C/Users/Rob/Documents/web design/ultralightaviation/Freida Pinto Side Face Closeup At Desert Dancer Photocall.jpg",
+		"/C/Users/Rob/Documents/web design/ultralightaviation/links.html",
+		"/E/ProgrammingI/code header.cpp",
+		"/E/ProgrammingI/assignments/a5russellr.cpp",
+		"/C/Users/Rob/Documents/web design/ultralightaviation/index.html",
+		"/C/Users/Rob/Documents/web design/ultralightaviation/content_information.txt",
+		"/C/Game Programming/MyFirstGame/main.cpp",
+		"/C/Game Programming/Tests/helloworld.cpp",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/ProgrammingI/Sublime Text 2.0.2/Data/Packages/C++/C++.sublime-build",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/C++.sublime-package",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 2/Packages/User/sfml-build.sublime-build",
+		"/E/ProgrammingI/Dev-Cpp/bin/practice45.cpp",
+		"/C/Game Programming/Tests/hello.cpp",
+		"/C/Users/Rob/AppData/Roaming/Sublime Text 2/Packages/User/gplusplus.sublime-build",
+		"/C/Users/Rob/Documents/web design/ultralightaviation/index.hml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$snappedElement",
+			";\n",
+			"Joe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Bill"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.697783933518,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 115.0,
+	"status_bar_visible": true
+}
